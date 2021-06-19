@@ -24,4 +24,6 @@ Extrak file zip Codeigniter ke direktori htdocs/lab11_ci.Ubah nama direktory fra
 
 Menjalankan CLI (Command Line Interface) Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk 
 mengakses CLI buka terminal/command prompt
-![lab11 ke6](https://user-images.githubusercontent.com/57024231/122550374-c45e9180-d05d-11eb-8e31-176063b4ce79.png)
+![lab11 ke7](https://user-images.githubusercontent.com/57024231/122625044-52259580-d0cd-11eb-96be-ba297489467e.png)
+
+![lab11 ke8](https://user-images.githubusercontent.com/57024231/122625059-5d78c100-d0cd-11eb-8802-7065c5b4a3c9.png)
