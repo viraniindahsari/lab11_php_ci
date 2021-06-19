@@ -22,8 +22,13 @@ Unduh Codeigniter dari website https://codeigniter.com/download
 Extrak file zip Codeigniter ke direktori htdocs/lab11_ci.Ubah nama direktory framework-4.x.xx menjadi ci4.
 ![lab11 ke5](https://user-images.githubusercontent.com/57024231/122550340-bd378380-d05d-11eb-8ea3-a3997c5dfe20.png)
 
+Tampilan Codeigniter 4.
+![lab11 ke9](https://user-images.githubusercontent.com/57024231/122626815-99fcea80-d0d6-11eb-8f4b-d26ec3edd06b.png)
+
 Menjalankan CLI (Command Line Interface) Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk 
 mengakses CLI buka terminal/command prompt
 ![lab11 ke7](https://user-images.githubusercontent.com/57024231/122625044-52259580-d0cd-11eb-96be-ba297489467e.png)
 
+Arahkan lokasi direktori sesuai dengan direktori kerja project dibuat (xampp/htdocs/lab11_ci/ci4/) 
+Perintah yang dapat dijalankan untuk memanggil CLI Codeigniter adalah:php spark
 ![lab11 ke8](https://user-images.githubusercontent.com/57024231/122625059-5d78c100-d0cd-11eb-8802-7065c5b4a3c9.png)
